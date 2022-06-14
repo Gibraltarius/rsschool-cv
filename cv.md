@@ -1,5 +1,5 @@
-**rsschool-cv**
-Osipenko Ivan
+#**rsschool-cv**
+##Osipenko Ivan
 
 *I was dealing with internal and external trade.*
 The key aspect of my job was providing technical data.
